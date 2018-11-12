@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,600');
+body{
+    font-family: 'Josefin Sans', sans-serif!important;
+}
+img{
+    max-width: 100%;
+}
+.singleProject img{
+    width: 100%;
+}
+
+.section-padding{
+    padding: 120px;
+}
+.home_area{
+    height: 100vh;
+    display: flex;
+}
+
+.about{
+    font-size: 28px;
+    font-weight: 400;
+    color: #8297bd;
+    padding: 70px;
+    box-shadow: 0px 0px 20px rgba(210, 200, 247, 0.47)
+}
