@@ -19,18 +19,21 @@ const Work = () => {
             <div className={'container'}>
                 <div className="row">
                     <div className="col-md-12">
-                        <h2>Here are of my works.</h2>
+                        <h2>Here are few of my works.</h2>
                     </div>
                 </div>
                 <div className="row">
                     <div className="col-md-4">
                         <figure className="singleProject">
-                            <img src={martplace} alt="Portfolio images"/>
-                            <div className="overlayContent">
-                                <a href="https://themeforest.net/item/martplace-multipurpose-online-marketplace-html-template/21212869" target="_blank">
-                                    <Button outline color={'primary'}>Visit site</Button>
-                                </a>
+                            <div className="imageWrapper">
+                                <img src={martplace} alt="Portfolio images"/>
+                                <div className="overlayContent">
+                                    <a href="https://themeforest.net/item/martplace-multipurpose-online-marketplace-html-template/21212869" target="_blank">
+                                        <Button outline color={'primary'}>Visit site</Button>
+                                    </a>
+                                </div>
                             </div>
+
                             <figcaption>
                                 <h4>MartPlace - MarketPlace Template</h4>
                             </figcaption>

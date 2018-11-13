@@ -10,8 +10,10 @@ const Home = (props) => {
                             Hello, there. I'm Shahadat Hossain Biplob. I'm a front-end guy fueled by caffeine and tea. I do
                             front-end stuff like JavaScript HTML, CSS, SASS, for the living. I like JS and things and tools
                             associated with it, like React, Webpack, NPM, Node etc. Here is some of the <Link to='/work'>works</Link> I have done. You can
-                            find me on github, stackoverflow and facebook.
-                            Thank you and peace.
+                            find me on <a href="https://github.com/shahadathb" target="_blank">github</a> ,
+                            <a href="https://stackoverflow.com/users/4603860/shahadat-hossain" target="_blank">stackoverflow</a>
+                             and <a href="https://www.facebook.com/shahadat.h.biplob" target="_blank">facebook</a> .
+                            Thank you 😊 and peace ✌️
                         </p>
                     </div>
                 </div>
